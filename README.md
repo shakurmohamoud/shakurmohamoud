@@ -36,7 +36,7 @@ Malmö, Skåne or remote. A second period runs 26 April – 1 October 2027.
 
 **MusicPlate** — Spotify-inspired music app in React, TypeScript, Express and PostgreSQL
 
-- Led the project and made the plan
+- Led the project and made the timeline
 - Backend: the song routes, the receipt routes and the middleware that keeps admin routes closed
 - Frontend: the admin page, the checkout and the receipts
 - Set up the deploy on Render
