@@ -1,14 +1,14 @@
 ## 👋 Hi, I'm Shakur
 
-Fullstack developer student at Medieinstitutet in Malmö. I build web apps that talk to
-real services, and I like working with real data and finding the patterns in it. Right
-now I'm learning how to build for e-commerce platforms.
+Fullstack developer student at Medieinstitutet. I build web apps that talk to
+real services, and I like working with real data and finding the patterns in it.
+Right now I'm learning how to build for e-commerce platforms.
 
-**🎯 Looking for an internship (LIA) 4 January – 12 March 2027.**
-Malmö, Skåne or remote. A second period runs 26 April – 1 October 2027.
+**🎯 Looking for an internship (LIA) in 2027.**
+The first period runs 4 January – 12 March and the second 26 April – 1 October.
+I can also take them as one longer placement. Malmö, Skåne or remote.
 
 [![Nordrost coffee shop](https://github.com/user-attachments/assets/d12afe9a-d2ef-4764-ac46-2c42be0449e3)](https://nordrost.vercel.app)
-
 
 ## 🔧 Tech stack
 
@@ -57,7 +57,7 @@ Malmö, Skåne or remote. A second period runs 26 April – 1 October 2027.
 - Filters for category and location
 - Unit, integration and end to end tests for it
 
-**FaceRoots** — grooming shop, group project in the HTML and CSS course
+**FaceRoots** — grooming shop, group project in the JavaScript, HTML and CSS course
 
 - Built the contact page and the site footer
 
@@ -67,4 +67,4 @@ Fullstack Developer @ Medieinstitutet · December 2025 – October 2027
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/shakur-mohamoud-472355398) · shakur.mohamoud@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shakur-mohamoud-472355398) · shakur.mohamoud@gmail.com · Discord: shakurmohamoud 
