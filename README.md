@@ -56,4 +56,4 @@ Fullstack Developer @ Medieinstitutet · December 2025 – October 2027
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/shakur-mohamoud-472355398) · [Email](mailto:shakur.mohamoud@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shakurmohamoud) · [Email](mailto:shakur.mohamoud@gmail.com)
