@@ -12,18 +12,7 @@ I can also take them as one longer placement. Malmö, Skåne or remote.
 
 ## 🔧 Tech stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Tech stack](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,php,mysql,postgres,mongodb,supabase,docker,githubactions,vitest)
 
 ## 📌 My projects
 
@@ -67,4 +56,4 @@ Fullstack Developer @ Medieinstitutet · December 2025 – October 2027
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/shakur-mohamoud-472355398) · shakur.mohamoud@gmail.com · Discord: shakurmohamoud 
+[LinkedIn](https://www.linkedin.com/in/shakur-mohamoud-472355398) · [Email](mailto:shakur.mohamoud@gmail.com)
